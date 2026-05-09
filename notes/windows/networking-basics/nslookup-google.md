@@ -1,7 +1,7 @@
 # nslookup google.com
 
 ## Screenshot
-![nslookup-google](screenshots/windows%20/networking-basics/nslookup-google.png)
+![nslookup-google](../../../screenshots/windows%20/networking-basics/nslookup-google.png)
 
 ## Command Used
 
