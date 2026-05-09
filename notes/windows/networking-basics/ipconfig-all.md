@@ -1,7 +1,7 @@
 # ipconfig /all
 
 ## Screenshot
-![ipconfig-all](../../../screenshots/windows/networking-basics/ipconfig-all.png)
+![ipconfig-all](../../../screenshots/windows /networking-basics/ipconfig-all.png
 
 ## Command Used
 
