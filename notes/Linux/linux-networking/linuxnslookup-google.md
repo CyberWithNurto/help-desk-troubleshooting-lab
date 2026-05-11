@@ -1,7 +1,7 @@
 # nslookup google.com
 
 ## Screenshot
-![nslookup-google](../../../screenshots/Linux/networking/nslookup-google.png)
+![linuxnslookup-google](../../../screenshots/Linux/networking/linuxnslookup-google.png)
 
 ## Command Used
 
